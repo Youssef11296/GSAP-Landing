@@ -1,4 +1,9 @@
 
+@media screen and (max-width:1200px){
+    header nav ul{
+        width:70%;
+    }
+}
 
 @media screen and (max-width:900px){
     @import 'header-media';
